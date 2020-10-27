@@ -1,6 +1,5 @@
-# calculator
+# 🧮 Calculator for basic operations
 
-A new Flutter application.
 
 ## Getting Started
 
