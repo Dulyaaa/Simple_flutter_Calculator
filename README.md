@@ -1,4 +1,6 @@
-# 🧮 Calculator for basic operations
+#➕➖✖➗ Calculator for basic operations
+
+This is a simple calculator that could perform addithion, subtraction, multiplication, and division. 
 
 
 ## Getting Started
